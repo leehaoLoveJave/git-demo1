@@ -1,9 +1,9 @@
-ĞŞ¸ÄIP
+ä¿®æ”¹IP
 vi /etc/syssconfig/network-scripts/ifcfg-eth0
-ĞŞ¸ÄÖ÷»úÃû
-1¡¢hostname hadoop100
-2¡¢ĞŞ¸ÄÎÄ¼ş/etc/sysconfig/network
-ÅäÖÃÖ÷»úÃûºÍipµÄÓ³Éä
+ä¿®æ”¹ä¸»æœºå
+1ã€hostname hadoop100
+2ã€ä¿®æ”¹æ–‡ä»¶/etc/sysconfig/network
+é…ç½®ä¸»æœºåå’Œipçš„æ˜ å°„
 
 
 vim /etc/udev/rules.d/70-persistent-net.rules 
@@ -18,3 +18,4 @@ mkdir software module
 chown atguigu:gtguigu module/ software/
 11111122222
 33333333333333333333
+4444444
