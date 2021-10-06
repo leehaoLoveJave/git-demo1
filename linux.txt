@@ -17,3 +17,4 @@ cd /opt
 mkdir software module
 chown atguigu:gtguigu module/ software/
 11111122222
+33333333333333333333
