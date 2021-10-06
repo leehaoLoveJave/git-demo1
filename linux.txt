@@ -16,4 +16,4 @@ vim /etc/sudoers  set nu     91SFT+G  YYP
 cd /opt 
 mkdir software module
 chown atguigu:gtguigu module/ software/
-
+33333333333333333333
